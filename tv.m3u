@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 tvg-id="TVP 1" tvg-logo="https://s8.tvp.pl/images2/8/a/c/uid_8ac2b72c379abf831e4d27a56988eae11638275540325_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 1
+plugin://plugin.video.tvpgo/play_channel?code=T1D&ch_id=5d1dccc1fa06f9682b0f9922
+#EXTINF:0 tvg-id="TVP 2" tvg-logo="https://s3.tvp.pl/images2/3/8/3/uid_38313bd81e2ec78f92fa8d360e738b921638275558292_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 2
+plugin://plugin.video.tvpgo/play_channel?code=T2D&ch_id=5d1dccc1fa06f9682b0f9923
 #EXTINF:-1,POLSAT PL
 plugin://plugin.video.pgobox/?mode=playtvs&url=1445662&page=0&moviescount=0&movie=True&name=POLSAT&image=https://ipla.pluscdn.pl/p/cms_thumbnails/96/96c7znf842w8spf1ui973hcyb36igs6b.jpeg
 #EXTINF:-1,TV4 PL
@@ -165,6 +169,36 @@ plugin://plugin.video.pgobox/?mode=playtvs&url=1455766&page=0&moviescount=0&movi
 plugin://plugin.video.pgobox/?mode=playtvs&url=1454368&page=0&moviescount=0&movie=True&name=MTV POLSKA&image=https://ipla.pluscdn.pl/p/cms_thumbnails/cq/cq7jh8w4ekbhqh64fqqnpwug3a1jxsvi.jpeg
 #EXTINF:-1,BBC BRIT PL
 plugin://plugin.video.pgobox/?mode=playtvs&url=1455427&page=0&moviescount=0&movie=True&name=BBC BRIT&image=https://ipla.pluscdn.pl/p/cms_thumbnails/41/41wf7yzqvhv91psc1aco3d1dee76ydre.jpeg
+#EXTINF:0 tvg-id="TVP Info" tvg-logo="https://s2.tvp.pl/images2/2/1/2/uid_2124147c0f8212d59ace8374779b28621638275572006_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Info
+plugin://plugin.video.tvpgo/play_channel?code=INF&ch_id=5d1dccc1fa06f9682b0f9924
+#EXTINF:0 tvg-id="TVP NAUKA" tvg-logo="https://s5.tvp.pl/images2/e/3/a/uid_e3a95bba0e16e0eed0e5fd59229cfbd01663860050881_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP NAUKA
+plugin://plugin.video.tvpgo/play_channel?code=NK&ch_id=632c3ddc45f77c91710cc0ae
+#EXTINF:0 tvg-id="TVP Sport" tvg-logo="https://s9.tvp.pl/images2/9/6/b/uid_96b6b3e217181c3d3925ba783fe68a131638275633849_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Sport
+plugin://plugin.video.tvpgo/play_channel?code=KSP&ch_id=5d1dccc1fa06f9682b0f993a
+#EXTINF:0 tvg-id="TVP Kultura" tvg-logo="https://s9.tvp.pl/images2/9/6/1/uid_96117b8fceb8a7db897a9757240316451638275727542_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Kultura
+plugin://plugin.video.tvpgo/play_channel?code=T5D&ch_id=5d1dccc1fa06f9682b0f9936
+#EXTINF:0 tvg-id="TVP Historia" tvg-logo="https://s4.tvp.pl/images2/d/5/e/uid_d5e250a46a37955df5b33847a1f661921638275686065_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Historia
+plugin://plugin.video.tvpgo/play_channel?code=TKH&ch_id=5d1dccc1fa06f9682b0f9938
+#EXTINF:0 tvg-id="TVP ABC" tvg-logo="https://s5.tvp.pl/images2/5/c/8/uid_5c8ba79e2229bf9909ffa4ea9907595e1638275665760_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP ABC
+plugin://plugin.video.tvpgo/play_channel?code=ABC&ch_id=5d1dccc1fa06f9682b0f9939
+#EXTINF:0 tvg-id="TVP Dokument" tvg-logo="https://s1.tvp.pl/images2/a/f/1/uid_af1b5529d584f3e6dc893021b38901971638275709609_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Dokument
+plugin://plugin.video.tvpgo/play_channel?code=DOK&ch_id=5fb3cdf8683e7e5a7f307257
+#EXTINF:0 tvg-id="TVP Kobieta" tvg-logo="https://s3.tvp.pl/images2/3/6/2/uid_362ac36e5828f7e25f5e5d028b7abb7b1638275648497_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Kobieta
+plugin://plugin.video.tvpgo/play_channel?code=KBT&ch_id=6040bf7b69359a199aa6fb38
+#EXTINF:0 tvg-id="TVP Polonia" tvg-logo="https://s5.tvp.pl/images2/e/7/b/uid_e7b9ee2c3a342e7b97eda1b96e48808d1638275742066_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Polonia
+plugin://plugin.video.tvpgo/play_channel?code=T4D&ch_id=5d1dccc1fa06f9682b0f9937
+#EXTINF:0 tvg-id="TVP Rozrywka" tvg-logo="https://s9.tvp.pl/images2/9/6/4/uid_9647031d5810bf7b78b1a9f30904468c1638275757901_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Rozrywka
+plugin://plugin.video.tvpgo/play_channel?code=TRO&ch_id=5d1dccc1fa06f9682b0f9935
+#EXTINF:0 tvg-id="Historia 2" tvg-logo="https://s1.tvp.pl/images2/a/e/0/uid_ae0b108d4f6da63a62b15c2c8a58b4021638275776152_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",Historia 2
+plugin://plugin.video.tvpgo/play_channel?code=H2&ch_id=60476bb069359a199a319de9
+#EXTINF:0 tvg-id="ABC 2" tvg-logo="https://s8.tvp.pl/images2/8/1/c/uid_81cab4e1725ca1969ec02d7d3cbd56441644906820060_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",ABC 2
+plugin://plugin.video.tvpgo/play_channel?code=DMPR&ch_id=5fdb237f69359a199a4376c6
+#EXTINF:0 tvg-id="Kultura 2" tvg-logo="https://s9.tvp.pl/images2/9/5/d/uid_95d9115d0087e74f98e473318137f5611638276367938_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",Kultura 2
+plugin://plugin.video.tvpgo/play_channel?code=KUL2&ch_id=6023b5b969359a199a4e25cc
+#EXTINF:0 tvg-id="TVP World" tvg-logo="https://s3.tvp.pl/images2/3/1/a/uid_31a1cb9f553a4e62fdc1a68311068b931639054119238_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP World
+plugin://plugin.video.tvpgo/play_channel?code=PIE&ch_id=61f2552dac8460678216e2a3
+#EXTINF:0 tvg-id="TVP 3 Olsztyn" tvg-logo="https://s2.tvp.pl/images2/2/2/9/uid_229b4d7600dc98bd6a1ba4e3c98e77181638794135703_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Olsztyn
+plugin://plugin.video.tvpgo/play_channel?code=XHH&ch_id=5d1dccc1fa06f9682b0f992f
 #EXTINF:-1,ESKA TV PL
 plugin://plugin.video.pgobox/?mode=playtvs&url=1454631&page=0&moviescount=0&movie=True&name=ESKA TV&image=https://ipla.pluscdn.pl/p/cms_thumbnails/pv/pv1ggqpuxzv41ryintzqtcruhi1enbge.jpeg
 #EXTINF:-1,POLSAT MUSIC HD PL
