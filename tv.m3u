@@ -11,6 +11,10 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1443260&cpid=0&type=tv
 plugin://plugin.video.playermb/?mode=playm3u&channelid=1908473
 #EXTINF:-1 tvg-logo="https://r-scale-7a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930752/images/49768977?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",Metro
 plugin://plugin.video.playermb/?mode=playm3u&channelid=2930752
+#EXTINF:-1 tvg-logo="https://r-scale-79.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908475/images/49770120?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TTV HD
+plugin://plugin.video.playermb/?mode=playm3u&channelid=1908475
+#EXTINF:-1 tvg-logo="https://r-scale-7a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930752/images/49768977?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",Metro
+plugin://plugin.video.playermb/?mode=playm3u&channelid=2930752
 #EXTINF:0 tvg-id="Polsat News HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/ha/hafvhdtpk6vgsq8opoqoo6f8i867nd82.jpeg" group-title="PolsatBox Go" ,Polsat News HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1456330&cpid=0&type=tv
 #EXTINF:0 tvg-id="Wydarzenia 24" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/gd/gd528thu9w8313fruu3qhqr5a64849ch.jpeg" group-title="PolsatBox Go" ,Wydarzenia 24
@@ -241,4 +245,33 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454064&cpid=0&type=tv
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454414&cpid=0&type=tv
 #EXTINF:0 tvg-id="CNN International" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/1h/1hqtqnr6mccdpybp5ovj3zid7z5bku8c.jpeg" group-title="PolsatBox Go" ,CNN International
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454060&cpid=0&type=tv
-	
+#EXTINF:-1 tvg-logo="https://r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759890/images/55090786?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Rewolucje w Kuchni Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759890
+#EXTINF:-1 tvg-logo="https://r-scale-d5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759882/images/55089347?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Kultowe Seriale Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759882
+#EXTINF:-1 tvg-logo="https://r-scale-2d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759881/images/55090849?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Rajska Miłość Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759881
+#EXTINF:-1 tvg-logo="https://r-scale-49.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759886/images/55089641?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Talk Show Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759886
+#EXTINF:-1 tvg-logo="https://r-scale-f5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759884/images/55089509?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Kryminalnie Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759884
+#EXTINF:-1 tvg-logo="https://r-scale-63.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759880/images/55090798?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Momenty Prawdy Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759880
+#EXTINF:-1 tvg-logo="https://r-scale-eb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759891/images/55090792?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Życie Jak w Bajce Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759891
+#EXTINF:-1 tvg-logo="https://r-scale-45.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759892/images/55080443?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Szpitalne Historie Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759892
+#EXTINF:-1 tvg-logo="https://r-scale-e7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759888/images/55089743?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Seriale o Kobietach Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759888
+#EXTINF:-1 tvg-logo="https://r-scale-0c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759887/images/55089677?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Telenowele Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759887
+#EXTINF:-1 tvg-logo="https://r-scale-9c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759893/images/55089326?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Szkoła Życia Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759893
+#EXTINF:-1 tvg-logo="https://r-scale-fb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759889/images/55090765?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN W Domu Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759889
+#EXTINF:-1 tvg-logo="https://r-scale-6b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759883/images/55089488?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Moto Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759883
+#EXTINF:-1 tvg-logo="https://r-scale-34.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759885/images/55089575?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Usterka Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759885
+#EXTINF:-1 tvg-logo="https://r-scale-98.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759879/images/55090885?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Prawo i Życie Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=8759879
