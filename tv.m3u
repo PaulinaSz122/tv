@@ -249,6 +249,8 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454414&cpid=0&type=tv
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454060&cpid=0&type=tv
 #EXTINF:-1 tvg-logo="https://r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759890/images/55090786?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Rewolucje w Kuchni Online
 plugin://plugin.video.playermb/?mode=playm3u&channelid=8759890
+#EXTINF:-1 tvg-logo="https://r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9083862/images/55311976?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Milionerzy Online
+plugin://plugin.video.playermb/?mode=playm3u&channelid=9083862
 #EXTINF:-1 tvg-logo="https://r-scale-d5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759882/images/55089347?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Kultowe Seriale Online
 plugin://plugin.video.playermb/?mode=playm3u&channelid=8759882
 #EXTINF:-1 tvg-logo="https://r-scale-2d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759881/images/55090849?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Rajska Miłość Online
