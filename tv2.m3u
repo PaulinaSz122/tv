@@ -179,6 +179,8 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455751&cpid=0&type=tv
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1457763&cpid=0&type=tv
 #EXTINF:0 tvg-id="Discovery Life HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/1k/1kdxv4p7zn2jcyh5iwxmp7b9h6i97k31.jpeg" group-title="PolsatBox Go" ,Discovery Life HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454624&cpid=0&type=tv
+#EXTINF:0 tvg-id="Planete+ HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC81Q0NFRDZFNTNDMEVEOERERTRERUNCMjcxQUIxRDNBM0JDNzkyRjNDLnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Planete+ HD
+plugin://plugin.video.orangetvgo/playtv/14212
 #EXTINF:0 tvg-id="ID HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/th/thip2er5n89p974e5znvj71z3d88o9zz.jpeg" group-title="PolsatBox Go" ,ID HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455160&cpid=0&type=tv
 #EXTINF:0 tvg-id="Discovery Historia" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/rx/rxvsnt77hq7b24cao8yxcxb5g8wb4qwp.jpeg" group-title="PolsatBox Go" ,Discovery Historia
@@ -207,13 +209,25 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454074&cpid=0&type=tv
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455748&cpid=0&type=tv
 #EXTINF:0 tvg-id="TLC HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/ov/ov8m6kurhx84kjbzf1e3247bsqjiw4rc.jpeg" group-title="PolsatBox Go" ,TLC HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455447&cpid=0&type=tv
+#EXTINF:0 tvg-id="CANAL+ Domo HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL2NwX2RvbW9fMTU5eDExMC5wbmc=" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,CANAL+ Domo HD
+plugin://plugin.video.orangetvgo/playtv/14210
+#EXTINF:0 tvg-id="CANAL+ Kuchnia HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL2NwX2t1Y2huaWFfMTU5eDExMC5wbmc=" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,CANAL+ Kuchnia HD
+plugin://plugin.video.orangetvgo/playtv/14211
 #EXTINF:0 tvg-id="Food Network HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/v3/v3xwbe6btte9ed2viyb6f8qynyeg9cvy.jpeg" group-title="PolsatBox Go" ,Food Network HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455169&cpid=0&type=tv
+#EXTINF:0 tvg-id="CBS Reality HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC9FQzhCODE4Q0ZEMEVGRDE5RUEzNEY0NDg5QjVDQjZCRUMxQUIzRURFLnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,CBS Reality HD
+plugin://plugin.video.orangetvgo/playtv/14226
+#EXTINF:0 tvg-id="Kabaret TV" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL0thYmFyZXRUVl8xNTl4MTEwLnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Kabaret TV
+plugin://plugin.video.orangetvgo/playtv/14386
+#EXTINF:0 tvg-id="STUDIOMED TV HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL3N0dWRpb21lZF8xNTl4MTEwLnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,STUDIOMED TV HD
+plugin://plugin.video.orangetvgo/playtv/14336
+#EXTINF:0 tvg-id="HOME TV HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL2hvbWVUVkhEXzE1OXgxMTAucG5n" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,HOME TV HD
+plugin://plugin.video.orangetvgo/playtv/14180
+
 #EXTINF:0 tvg-id="BBC Lifestyle HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/zm/zmocmbbmzo1i1fivgstbpsa8dno3gnbo.jpeg" group-title="PolsatBox Go" ,BBC Lifestyle HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454632&cpid=0&type=tv
 #EXTINF:0 tvg-id="E!" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/ga/gaoy23wt9obk12vcfqhwv9qvkry6z6fk.jpeg" group-title="PolsatBox Go" ,E!
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454604&cpid=0&type=tv
-
 #EXTINF:0 tvg-id="Tele 5 HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL3RlbGU1XzE1OXgxMTAucG5n" group-title="Orange TV GO",Tele 5 HD
 plugin://plugin.video.orangetvgo/playtv/14003
 #EXTINF:0 tvg-id="Polonia 1 HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL3AxXzE1OXgxMTAucG5n" group-title="Orange TV GO",Polonia 1 HD
