@@ -109,6 +109,8 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454378&cpid=0&type=tv
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455152&cpid=0&type=tv
 #EXTINF:0 tvg-id="Novela TV" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/a9/a9gx7ebf7jscr58g82m88wcj7cikmkjg.jpeg" group-title="PolsatBox Go" ,Novela TV
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454396&cpid=0&type=tv
+#EXTINF:0 tvg-id="NOVELAS+ HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL25vdmVsYXNwbHVzXzE1OXgxMTAucG5n" group-title="Orange TV GO",NOVELAS+ HD
+plugin://plugin.video.orangetvgo/playtv/14343
 #EXTINF:0 tvg-id="FilmBox Premium HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/hs/hsu8zn24mxez7b1rnb41ec24qdsypsnp.jpeg" group-title="PolsatBox Go" ,FilmBox Premium HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455415&cpid=0&type=tv
 #EXTINF:0 tvg-id="Filmbox Family" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/pu/pupd7ie7pxv4uxfnzuyxxvwx3b6pmem5.jpeg" group-title="PolsatBox Go" ,Filmbox Family
@@ -155,6 +157,20 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455769&cpid=0&type=tv
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455743&cpid=0&type=tv
 #EXTINF:0 tvg-id="Viasat Nature HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/8o/8ooe2x33hk46ii87kbiwbgg3u6p7kjvz.jpeg" group-title="PolsatBox Go" ,Viasat Nature HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455422&cpid=0&type=tv
+#EXTINF:0 tvg-id="Viasat True Crime" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL1ZJQVNBVF9UcnVlQ3JpbWVfNzJ4NTAucG5n" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Viasat True Crime
+plugin://plugin.video.orangetvgo/playtv/14385
+#EXTINF:0 tvg-id="ViDoc TV" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL1ZpRG9jVFZfMTU5eDExMC5wbmc=" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,ViDoc TV
+plugin://plugin.video.orangetvgo/playtv/14348
+#EXTINF:0 tvg-id="CTV - DLA CIEBIE" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL2N0dl8xNTl4MTEwLnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,CTV - DLA CIEBIE
+plugin://plugin.video.orangetvgo/playtv/14380
+#EXTINF:0 tvg-id="BBC First HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC81QzRGREE3NzBBMkZGN0Q0MTRDREFFNDQ3RTIxMTIwNjczMThEODU1LnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,BBC First HD
+plugin://plugin.video.orangetvgo/playtv/14170
+#EXTINF:0 tvg-id="TVN Style HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL3R2blN0eWxlXzIwMjRfMTU5eDExMC5wbmc=" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,TVN Style HD
+plugin://plugin.video.orangetvgo/playtv/14176
+#EXTINF:0 tvg-id="TVN Turbo HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL3R2blR1cmJvXzIwMjRfMTU5eDExMC5wbmc=" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,TVN Turbo HD
+plugin://plugin.video.orangetvgo/playtv/14178
+#EXTINF:0 tvg-id="HGTV HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC8wNzREODYxNTE5RDRBNTI3MUQxNjdBNzVFNzgwRjI3RkEyQzI5NkIxLnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,HGTV HD
+plugin://plugin.video.orangetvgo/playtv/15021
 #EXTINF:0 tvg-id="Discovery Channel HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/xy/xykxfgjcppnjmpf77mw4k923aby6jcqn.jpeg" group-title="PolsatBox Go" ,Discovery Channel HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455829&cpid=0&type=tv
 #EXTINF:0 tvg-id="Discovery Science HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/a5/a5q47zb543ktzy1q5ksmet9se9nfg32q.jpeg" group-title="PolsatBox Go" ,Discovery Science HD
