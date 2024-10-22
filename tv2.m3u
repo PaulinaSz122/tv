@@ -135,6 +135,8 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455429&cpid=0&type=tv
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455412&cpid=0&type=tv
 #EXTINF:0 tvg-id="BBC CBEEBIES" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/b8/b8fgbz4ov4o9o2x6x1rcvtoi2t3jsx92.jpeg" group-title="PolsatBox Go" ,BBC CBEEBIES
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454633&cpid=0&type=tv
+#EXTINF:0 tvg-id="MiniMini+ HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC9EODJGREFENTQwOEI4QTRFMkI2NTlBOEFCMzU2RDM0NjM1MzVBMDQ4LnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,MiniMini+ HD
+plugin://plugin.video.orangetvgo/playtv/14208
 #EXTINF:0 tvg-id="Da Vinci" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/ye/yeo3obgkbeu281snscihgj4q8f4cggsm.jpg" group-title="PolsatBox Go" ,Da Vinci
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454081&cpid=0&type=tv
 #EXTINF:0 tvg-id="Disney Channel" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/op/op1tiu18jv12jn25eo2tajb8xv2cm4ed.jpg" group-title="PolsatBox Go" ,Disney Channel
@@ -181,6 +183,8 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1457763&cpid=0&type=tv
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454624&cpid=0&type=tv
 #EXTINF:0 tvg-id="Planete+ HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC81Q0NFRDZFNTNDMEVEOERERTRERUNCMjcxQUIxRDNBM0JDNzkyRjNDLnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Planete+ HD
 plugin://plugin.video.orangetvgo/playtv/14212
+#EXTINF:0 tvg-id="Crime+Investigation Polsat HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC9GRkE1NzJFRDQ5QkU3MUJEQkZDMDdBNjg5REJGRkI3QUQxNDhGNkQ2LnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Crime+Investigation Polsat HD
+plugin://plugin.video.orangetvgo/playtv/14188
 #EXTINF:0 tvg-id="ID HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/th/thip2er5n89p974e5znvj71z3d88o9zz.jpeg" group-title="PolsatBox Go" ,ID HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455160&cpid=0&type=tv
 #EXTINF:0 tvg-id="Discovery Historia" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/rx/rxvsnt77hq7b24cao8yxcxb5g8wb4qwp.jpeg" group-title="PolsatBox Go" ,Discovery Historia
@@ -223,7 +227,6 @@ plugin://plugin.video.orangetvgo/playtv/14386
 plugin://plugin.video.orangetvgo/playtv/14336
 #EXTINF:0 tvg-id="HOME TV HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL2hvbWVUVkhEXzE1OXgxMTAucG5n" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,HOME TV HD
 plugin://plugin.video.orangetvgo/playtv/14180
-
 #EXTINF:0 tvg-id="BBC Lifestyle HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/zm/zmocmbbmzo1i1fivgstbpsa8dno3gnbo.jpeg" group-title="PolsatBox Go" ,BBC Lifestyle HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454632&cpid=0&type=tv
 #EXTINF:0 tvg-id="E!" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/ga/gaoy23wt9obk12vcfqhwv9qvkry6z6fk.jpeg" group-title="PolsatBox Go" ,E!
@@ -320,6 +323,8 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454064&cpid=0&type=tv
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454414&cpid=0&type=tv
 #EXTINF:0 tvg-id="CNN International" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/1h/1hqtqnr6mccdpybp5ovj3zid7z5bku8c.jpeg" group-title="PolsatBox Go" ,CNN International
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454060&cpid=0&type=tv
+#EXTINF:0 tvg-id="TVP World HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL3R2cFdvcmxkXzE1OXgxMTAucG5n" group-title="Orange TV GO",TVP World HD
+plugin://plugin.video.orangetvgo/playtv/14352
 #EXTINF:-1 tvg-logo="https://r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759890/images/55090786?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Rewolucje w Kuchni Online
 plugin://plugin.video.playermb/?mode=playm3u&channelid=8759890
 #EXTINF:-1 tvg-logo="https://r-scale-de.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10195811/images/1726482236217/10195811.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1",TVN Czas na Ślub Online
