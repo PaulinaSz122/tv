@@ -23,7 +23,7 @@ plugin://plugin.video.playermb/?mode=playm3u&channelid=2930752
 plugin://plugin.video.playermb/?mode=playm3u&channelid=1908475
 #EXTINF:0 tvg-id="TV Puls HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL0MyOEJEOUI3RTBFODMzMUQyQTlGQzAyNTMyQUFCREYxRkVCMUJCNDAucG5n" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,TV Puls HD
 plugin://plugin.video.orangetvgo/playtv/15019
-#EXTINF:0 tvg-id="Puls2 HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzLzAwODVDMjU5QTM4RDI3OUYwQzBEQTc4MTY3RUZEM0YwRDJBMUNFRTYucG5n" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Puls2 HD
+#EXTINF:0 tvg-id="Puls2 HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzLzAwODVDMjU5QTM4RDI3OUYwQzBEQTc4MTY3RUZEM0YwRDJBMUNFRTYucG5n" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Puls 2 HD
 plugin://plugin.video.orangetvgo/playtv/14199
 #EXTINF:0 tvg-id="Nowa TV HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC80MTA5Q0Y3RjM5MEUxNzM1NEZFN0E0OTUzMUFGQTBGN0Y5MTM3MDY4LnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Nowa TV HD
 plugin://plugin.video.orangetvgo/playtv/14287
