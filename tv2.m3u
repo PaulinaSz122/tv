@@ -226,7 +226,7 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454604&cpid=0&type=tv
 #EXTINF:0 tvg-id="Tele 5 HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL3RlbGU1XzE1OXgxMTAucG5n" group-title="Orange TV GO",Tele 5 HD
 plugin://plugin.video.orangetvgo/playtv/14003
 #EXTINF:0 tvg-id="Polonia 1 HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL3AxXzE1OXgxMTAucG5n" group-title="Orange TV GO",Polonia 1 HD
-plugin://plugin.video.orangetvgo/playtv/14008 
+plugin://plugin.video.orangetvgo/playtv/14008
 #EXTINF:0 tvg-id="MTV POLSKA" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/a8/a8xmcr1pfezquv7bnu23zp3n818iymko.jpeg" group-title="PolsatBox Go" ,MTV POLSKA
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454368&cpid=0&type=tv
 #EXTINF:0 tvg-id="BBC BRIT" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/zi/zioftb2p9a3f937bh2uw95ar4m4skt4s.jpeg" group-title="PolsatBox Go" ,BBC BRIT
@@ -315,7 +315,6 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454064&cpid=0&type=tv
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454414&cpid=0&type=tv
 #EXTINF:0 tvg-id="CNN International" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/1h/1hqtqnr6mccdpybp5ovj3zid7z5bku8c.jpeg" group-title="PolsatBox Go" ,CNN International
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454060&cpid=0&type=tv
-plugin://plugin.video.orangetvgo/playtv/14352
 #EXTINF:-1 tvg-logo="https://r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759890/images/55090786?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Player",TVN Rewolucje w Kuchni Online
 plugin://plugin.video.playermb/?mode=playm3u&channelid=8759890
 #EXTINF:-1 tvg-logo="https://r-scale-de.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10195811/images/1726482236217/10195811.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Player",TVN Czas na Ślub Online
