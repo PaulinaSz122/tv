@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:0 tvg-id="TVP 1" tvg-logo="https://s8.tvp.pl/images2/8/a/c/uid_8ac2b72c379abf831e4d27a56988eae11638275540325_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 1
-plugin://plugin.video.tvpgo/play_channel?code=T1D&ch_id=5d1dccc1fa06f9682b0f9922
-#EXTINF:0 tvg-id="TVP 2" tvg-logo="https://s3.tvp.pl/images2/3/8/3/uid_38313bd81e2ec78f92fa8d360e738b921638275558292_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 2
-plugin://plugin.video.tvpgo/play_channel?code=T2D&ch_id=5d1dccc1fa06f9682b0f9923
+#EXTINF:0 tvg-id="TVP 1 HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC9EMkE1NUMwNUJDMEY4NTAwMDUyMDFDOEI4ODNCQUE1RTg0MjI4OEEyLnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,TVP 1 HD
+plugin://plugin.video.orangetvgo/playtv/14135
+#EXTINF:0 tvg-id="TVP 2 HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC80NDdDMkQ3RkZBRkEyQkQwNTc3OTUwMjk1RURBRkEyMzY3ODFCNEIzLnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,TVP 2 HD
+plugin://plugin.video.orangetvgo/playtv/14999
 #EXTINF:0 tvg-id="Polsat" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/sk/skeaigjwy5wcy5ts8g2bdb337qwyy1ju.jpeg" group-title="PolsatBox Go" ,Polsat
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1445662&cpid=0&type=tv
 #EXTINF:0 tvg-id="TV4" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/1v/1vjyi44css23o17yneooo293a9pvfrqh.jpg" group-title="PolsatBox Go" ,TV4
@@ -49,8 +49,8 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455413&cpid=0&type=tv
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454076&cpid=0&type=tv
 #EXTINF:0 tvg-id="CI Polsat HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/5v/5v4e266p2wuec69pveyeazpopaqh5tee.jpeg" group-title="PolsatBox Go" ,CI Polsat HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455435&cpid=0&type=tv
-#EXTINF:0 tvg-id="Polsat Comedy Central Extra" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/7y/7yksnp1ts1at4myo1yuw55yqztuphmhu.jpeg" group-title="PolsatBox Go" ,Polsat Comedy Central Extra
-plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1442745&cpid=0&type=tv
+#EXTINF:0 tvg-id="Polsat Comedy Central Extra HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL1BvbHNhcnRDb21lZHlDZW50cmFsRXh0cmFfMTU5eDExMC5wbmc=" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Polsat Comedy Central Extra HD
+plugin://plugin.video.orangetvgo/playtv/14097
 #EXTINF:0 tvg-id="Stopklatka TV HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL3N0b3BrbGF0a2FfMTU5eDExMC5wbmc=" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Stopklatka TV HD
 plugin://plugin.video.orangetvgo/playtv/14237
 #EXTINF:0 tvg-id="Filmax" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL2ZpbG1tYXhfMTU5eDExMC5wbmc=" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Filmax
@@ -65,12 +65,12 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455335&cpid=0&type=tv
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455167&cpid=0&type=tv
 #EXTINF:0 tvg-id="Paramount Network HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/g4/g4i33kpow2xg3ap5u2goshda3ibbbb5v.jpeg" group-title="PolsatBox Go" ,Paramount Network HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455826&cpid=0&type=tv
-#EXTINF:0 tvg-id="Kino Polska" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/6s/6so7ra22iq4br583qxxm7m4oyzpg21tf.jpeg" group-title="PolsatBox Go" ,Kino Polska
-plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455830&cpid=0&type=tv
-#EXTINF:0 tvg-id="Kino TV" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/1f/1f2ummbn9t1gfaa6q4qegq2o759smkz8.jpeg" group-title="PolsatBox Go" ,Kino TV
-plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455770&cpid=0&type=tv
-#EXTINF:0 tvg-id="Warner TV" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/q5/q5vckj9zi22y4zi3njv3chxwvtwv1rr4.jpeg" group-title="PolsatBox Go" ,Warner TV
-plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455762&cpid=0&type=tv
+#EXTINF:0 tvg-id="Kino Polska HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL2tpbm9fcG9sc2thXzE1OXgxMTAucG5n" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Kino Polska HD
+plugin://plugin.video.orangetvgo/playtv/15014
+#EXTINF:0 tvg-id="Kino TV HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC9GNkM4NTY3RkM4MDQyM0NDN0VGREVDRDgyMkNBNTcxQTA3REI4OTg2LnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Kino TV HD
+plugin://plugin.video.orangetvgo/playtv/14132
+#EXTINF:0 tvg-id="Warner TV" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL3dhcm5lclRWXzE1OXgxMTAucG5n" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Warner TV
+plugin://plugin.video.orangetvgo/playtv/14219
 #EXTINF:0 tvg-id="AXN HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/ev/evnku6pk6bcei4vvejhxdgg881trgcux.jpeg" group-title="PolsatBox Go" ,AXN HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455756&cpid=0&type=tv
 #EXTINF:0 tvg-id="AXN Black SD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/3g/3ggqimp4x6nkhxyj47rp5iwnedia9jqr.jpeg" group-title="PolsatBox Go" ,AXN Black SD
@@ -79,18 +79,18 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455430&cpid=0&type=tv
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454629&cpid=0&type=tv
 #EXTINF:0 tvg-id="AXN Spin HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/sx/sxgi8yhxo1tmge9ipn3iee2n2c8t8gra.jpeg" group-title="PolsatBox Go" ,AXN Spin HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454628&cpid=0&type=tv
-#EXTINF:0 tvg-id="BBC First" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/hp/hpq7uie1gwqhwbidyw362wye2gbewtze.jpeg" group-title="PolsatBox Go" ,BBC First
-plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1456329&cpid=0&type=tv
-#EXTINF:0 tvg-id="AMC" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/r6/r664osf9jiok8c4ojf5smh7gnpqsv4hm.jpeg" group-title="PolsatBox Go" ,AMC
-plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455446&cpid=0&type=tv
+#EXTINF:0 tvg-id="BBC First HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC81QzRGREE3NzBBMkZGN0Q0MTRDREFFNDQ3RTIxMTIwNjczMThEODU1LnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,BBC First HD
+plugin://plugin.video.orangetvgo/playtv/14170
+#EXTINF:0 tvg-id="AMC HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC9GNERBOEZDQTZFMEM5ODlFQzgxQUE2MTU0NDIzMzFFMjlGMjMxMzE0LnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,AMC HD
+plugin://plugin.video.orangetvgo/playtv/14164
 #EXTINF:0 tvg-id="13 Ulica" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/cj/cj2zv5fph71sp6xirznptiha4anuzdci.jpeg" group-title="PolsatBox Go" ,13 Ulica
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455431&cpid=0&type=tv
 #EXTINF:0 tvg-id="SciFi Universal" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/n6/n6e83gwn3evww2742dk3pk59ahd3n1z3.jpeg" group-title="PolsatBox Go" ,SciFi Universal
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455428&cpid=0&type=tv
-#EXTINF:0 tvg-id="Comedy Central Polska HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/tn/tng1wm44g89jjb7dy5fq3awa14k2t671.jpeg" group-title="PolsatBox Go" ,Comedy Central Polska HD
-plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1458960&cpid=0&type=tv
-#EXTINF:0 tvg-id="FX" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/kj/kj8zhei7wmu2xktwqdyk3wkppmuogwdn.jpg" group-title="PolsatBox Go" ,FX
-plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455822&cpid=0&type=tv
+#EXTINF:0 tvg-id="Comedy Central HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC85N0VGRUI4MDZEMUMxMUM5MzhCNTJGQjRBRERGOTY0NUJGREQ3MDk0LnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Comedy Central HD
+plugin://plugin.video.orangetvgo/playtv/14250
+#EXTINF:0 tvg-id="FX HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL0ZYXzE1OXgxMTAucG5n" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,FX HD
+plugin://plugin.video.orangetvgo/playtv/14138
 #EXTINF:0 tvg-id="FX Comedy" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/no/noqedkzcw8wya41m7fde7fup1akmmezm.jpg" group-title="PolsatBox Go" ,FX Comedy
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455155&cpid=0&type=tv
 #EXTINF:0 tvg-id="Epic Drama HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/8c/8cny17s2mfsq8npexv2mmmuxraks1byh.jpeg" group-title="PolsatBox Go" ,Epic Drama HD
@@ -203,8 +203,8 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454380&cpid=0&type=tv
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454074&cpid=0&type=tv
 #EXTINF:0 tvg-id="Polsat Cafe HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/nf/nfvg4tb8hmv5pac47qf4gpd5bar4k6sg.jpeg" group-title="PolsatBox Go" ,Polsat Cafe HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455748&cpid=0&type=tv
-#EXTINF:0 tvg-id="TLC HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/ov/ov8m6kurhx84kjbzf1e3247bsqjiw4rc.jpeg" group-title="PolsatBox Go" ,TLC HD
-plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455447&cpid=0&type=tv
+#EXTINF:0 tvg-id="TLC HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC84QzlDQzI5OUY0QzY0NEZDMEY1OTk2NDhBNTQ1RDJBQTIxMjE3NTI1LnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,TLC HD
+plugin://plugin.video.orangetvgo/playtv/14072
 #EXTINF:0 tvg-id="CANAL+ Domo HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL2NwX2RvbW9fMTU5eDExMC5wbmc=" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,CANAL+ Domo HD
 plugin://plugin.video.orangetvgo/playtv/14210
 #EXTINF:0 tvg-id="CANAL+ Kuchnia HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL2NwX2t1Y2huaWFfMTU5eDExMC5wbmc=" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,CANAL+ Kuchnia HD
