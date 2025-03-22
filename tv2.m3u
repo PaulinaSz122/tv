@@ -355,3 +355,27 @@ plugin://plugin.video.playermb/?mode=playm3u&channelid=8759883
 plugin://plugin.video.playermb/?mode=playm3u&channelid=8759885
 #EXTINF:-1 tvg-logo="https://r-scale-98.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759879/images/55090885?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Player",TVN Prawo i Życie Online
 plugin://plugin.video.playermb/?mode=playm3u&channelid=8759879
+#EXTINF:0 tvg-id="Euronews LIVE" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082.jpeg" group-title="Rakuten TV",Euronews LIVE
+plugin://plugin.video.rakuten_tv?mode=playSource&cid=euronews-live-pol&lang=POL
+#EXTINF:0 tvg-id="Viasat Explore Classic" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129.jpeg" group-title="Rakuten TV",Viasat Explore Classic
+plugin://plugin.video.rakuten_tv?mode=playSource&cid=viasat-explore-pl&lang=POL
+#EXTINF:0 tvg-id="Moconomy - Gospodarka i Finanse" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9.jpeg" group-title="Rakuten TV",Moconomy - Gospodarka i Finanse
+plugin://plugin.video.rakuten_tv?mode=playSource&cid=moconomy-pl&lang=POL
+#EXTINF:0 tvg-id="Car City Adventures" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f.jpeg" group-title="Rakuten TV",Car City Adventures
+plugin://plugin.video.rakuten_tv?mode=playSource&cid=car-city-adventures-pl&lang=POL
+#EXTINF:0 tvg-id="Red Carpet TV International" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0.jpeg" group-title="Rakuten TV",Red Carpet TV International
+plugin://plugin.video.rakuten_tv?mode=playSource&cid=red-carpet-tv-international&lang=POL
+#EXTINF:0 tvg-id="Grjngo - Westerny" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40.jpeg" group-title="Rakuten TV",Grjngo - Westerny
+plugin://plugin.video.rakuten_tv?mode=playSource&cid=grjngo-pl&lang=POL
+#EXTINF:0 tvg-id="Bigtime - Darmowe Filmy" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f.jpeg" group-title="Rakuten TV",Bigtime - Darmowe Filmy
+plugin://plugin.video.rakuten_tv?mode=playSource&cid=bjgtjme-pl&lang=POL
+#EXTINF:0 tvg-id="Top Movies Polska - Rakuten TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5193576e-4202-4c6a-a737-5cbeb9ea6a6c.jpeg" group-title="Rakuten TV",Top Movies Polska - Rakuten TV
+plugin://plugin.video.rakuten_tv?mode=playSource&cid=top-movies-rakuten-tv&lang=POL
+#EXTINF:0 tvg-id="Fail Army" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e481c9fa-07c8-4345-8638-47527a0b807b.jpeg" group-title="Rakuten TV",Fail Army
+plugin://plugin.video.rakuten_tv?mode=playSource&cid=jukin-fail-army-new&lang=ENG
+#EXTINF:0 tvg-id="The Pet Collective" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b471d6b6-5694-46b3-8a33-6dbb0f76cf53.jpeg" group-title="Rakuten TV",The Pet Collective
+plugin://plugin.video.rakuten_tv?mode=playSource&cid=the-pet-collective-new&lang=ENG
+#EXTINF:0 tvg-id="AFV Family" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/5e618d18-1f27-43f8-a2e9-7336d8aeb8e5-afv-family-1622017638.png" group-title="Rakuten TV",AFV Family
+plugin://plugin.video.rakuten_tv?mode=playSource&cid=afv-family&lang=ENG
+#EXTINF:0 tvg-id="People Are Awesome" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f.jpeg" group-title="Rakuten TV",People Are Awesome
+plugin://plugin.video.rakuten_tv?mode=playSource&cid=people-are-awesome-new&lang=ENG
