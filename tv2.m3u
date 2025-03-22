@@ -149,6 +149,8 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455443&cpid=0&type=tv
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455769&cpid=0&type=tv
 #EXTINF:0 tvg-id="Viasat Explore HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/it/it7qk3iyi7y9kuio56559xdu2af3w1r1.jpeg" group-title="PolsatBox Go" ,Viasat Explore HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455743&cpid=0&type=tv
+#EXTINF:0 tvg-id="Viasat Explore Classic" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129.jpeg" group-title="Rakuten TV",Viasat Explore Classic
+plugin://plugin.video.rakuten_tv?mode=playSource&cid=viasat-explore-pl&lang=POL
 #EXTINF:0 tvg-id="Viasat Nature HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/8o/8ooe2x33hk46ii87kbiwbgg3u6p7kjvz.jpeg" group-title="PolsatBox Go" ,Viasat Nature HD
 plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455422&cpid=0&type=tv
 #EXTINF:0 tvg-id="Viasat True Crime" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL1ZJQVNBVF9UcnVlQ3JpbWVfNzJ4NTAucG5n" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Viasat True Crime
@@ -357,8 +359,6 @@ plugin://plugin.video.playermb/?mode=playm3u&channelid=8759885
 plugin://plugin.video.playermb/?mode=playm3u&channelid=8759879
 #EXTINF:0 tvg-id="Euronews LIVE" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082.jpeg" group-title="Rakuten TV",Euronews LIVE
 plugin://plugin.video.rakuten_tv?mode=playSource&cid=euronews-live-pol&lang=POL
-#EXTINF:0 tvg-id="Viasat Explore Classic" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129.jpeg" group-title="Rakuten TV",Viasat Explore Classic
-plugin://plugin.video.rakuten_tv?mode=playSource&cid=viasat-explore-pl&lang=POL
 #EXTINF:0 tvg-id="Moconomy - Gospodarka i Finanse" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9.jpeg" group-title="Rakuten TV",Moconomy - Gospodarka i Finanse
 plugin://plugin.video.rakuten_tv?mode=playSource&cid=moconomy-pl&lang=POL
 #EXTINF:0 tvg-id="Car City Adventures" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f.jpeg" group-title="Rakuten TV",Car City Adventures
