@@ -87,7 +87,7 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1454628&cpid=0&type=tv
 plugin://plugin.video.orangetvgo/playtv/14170
 #EXTINF:0 tvg-id="AMC HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC9GNERBOEZDQTZFMEM5ODlFQzgxQUE2MTU0NDIzMzFFMjlGMjMxMzE0LnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,AMC HD
 plugin://plugin.video.orangetvgo/playtv/14164
-#EXTINF:0 tvg-id="Red Carpet TV International" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0.jpeg" group-title="Rakuten TV",Red Carpet TV International
+#EXTINF:0 tvg-id="Red Carpet TV International" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0.jpeg" group-title="Rakuten TV",Red Carpet TV
 plugin://plugin.video.rakuten_tv?mode=playSource&cid=red-carpet-tv-international&lang=POL
 #EXTINF:0 tvg-id="Grjngo - Westerny" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40.jpeg" group-title="Rakuten TV",Grjngo - Westerny
 plugin://plugin.video.rakuten_tv?mode=playSource&cid=grjngo-pl&lang=POL
@@ -379,3 +379,49 @@ plugin://plugin.video.rakuten_tv?mode=playSource&cid=the-pet-collective-new&lang
 plugin://plugin.video.rakuten_tv?mode=playSource&cid=afv-family&lang=ENG
 #EXTINF:0 tvg-id="People Are Awesome" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f.jpeg" group-title="Rakuten TV",People Are Awesome
 plugin://plugin.video.rakuten_tv?mode=playSource&cid=people-are-awesome-new&lang=ENG
+#EXTINF:0 tvg-id="Glina TV" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1703156287_315.png" group-title="WP Pilot" ,Glina TV
+plugin://plugin.video.wppilot?mode=playSource&cid=315
+#EXTINF:0 tvg-id="Transmisja z Sejmu" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1704884980_194.png" group-title="WP Pilot" ,Transmisja z Sejmu
+plugin://plugin.video.wppilot?mode=playSource&cid=194
+#EXTINF:0 tvg-id="Toya TV" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1718971596_320.png" group-title="WP Pilot" ,Toya TV
+plugin://plugin.video.wppilot?mode=playSource&cid=320
+#EXTINF:0 tvg-id="Glina TV" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1703156287_315.png" group-title="WP Pilot" ,Glina TV
+plugin://plugin.video.wppilot?mode=playSource&cid=315
+#EXTINF:0 tvg-id="Karuzela Śmiechu" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1706186412_271.png" group-title="WP Pilot" ,Karuzela Śmiechu
+plugin://plugin.video.wppilot?mode=playSource&cid=271
+#EXTINF:0 tvg-id="2611.id.com" tvg-name="Travel & Adventures HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCZRIIBCNABA====/2611-travel-adventures-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2611|{catchup-id}",Travel & Adventures HD
+plugin://plugin.video.sweettv/playvid/2611|null
+#EXTINF:0 tvg-id="2351.id.com" tvg-name="Murder maps HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCXREIBCNABA====/2351-murder-maps-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2351|{catchup-id}",Murder maps HD
+plugin://plugin.video.sweettv/playvid/2351|null
+#EXTINF:0 tvg-id="2873.id.com" tvg-name="Hollywood stories HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC4RMIBCNABA====/2873-hollywood-stories-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2873|{catchup-id}",Hollywood stories HD
+plugin://plugin.video.sweettv/playvid/2873|null
+#EXTINF:0 tvg-id="2353.id.com" tvg-name="Movie stars HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCYREIBCNABA====/2353-movie-stars-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2353|{catchup-id}",Movie stars HD
+plugin://plugin.video.sweettv/playvid/2353|null
+#EXTINF:0 tvg-id="2359.id.com" tvg-name="Political History HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC3REIBCNABA====/2359-political-history-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2359|{catchup-id}",Political History HD
+plugin://plugin.video.sweettv/playvid/2359|null
+#EXTINF:0 tvg-id="2649.id.com" tvg-name="Men With The Pot HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDMRIIBCNABA====/2649-men-with-the-pot-hd.png" group-title="Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2649|{catchup-id}",Men With The Pot HD
+plugin://plugin.video.sweettv/playvid/2649|null
+#EXTINF:0 tvg-id="2360.id.com" tvg-name="Presidents & leaders HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC4BEIBCNABA====/2360-presidents-leaders-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2360|{catchup-id}",Presidents & leaders HD
+plugin://plugin.video.sweettv/playvid/2360|null
+#EXTINF:0 tvg-id="2369.id.com" tvg-name="Video killed the radio stars HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDAREIBCNABA====/2369-video-killed-the-radio-star-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2369|{catchup-id}",Video killed the radio stars HD
+plugin://plugin.video.sweettv/playvid/2369|null
+#EXTINF:0 tvg-id="2362.id.com" tvg-name="Fashion history HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC5BEIBCNABA====/2362-fashion-history-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2362|{catchup-id}",Fashion history HD
+plugin://plugin.video.sweettv/playvid/2362|null
+#EXTINF:0 tvg-id="2368.id.com" tvg-name="Historical Figures HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDABEIBCNABA====/2368-historical-figures-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2368|{catchup-id}",Historical Figures HD
+plugin://plugin.video.sweettv/playvid/2368|null
+#EXTINF:0 tvg-id="2367.id.com" tvg-name="Monarchies & Dynasties HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC7REIBCNABA====/2367-monarchies-dynasties-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2367|{catchup-id}",Monarchies & Dynasties HD
+plugin://plugin.video.sweettv/playvid/2367|null
+#EXTINF:0 tvg-id="2388.id.com" tvg-name="Raiders of the lost art HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDKBEIBCNABA====/2388-raiders-of-the-lost-art-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2388|{catchup-id}",Raiders of the lost art HD
+plugin://plugin.video.sweettv/playvid/2388|null
+#EXTINF:0 tvg-id="2363.id.com" tvg-name="Legends of the opera HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC5REIBCNABA====/2363-legends-of-the-opera-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2363|{catchup-id}",Legends of the opera HD
+plugin://plugin.video.sweettv/playvid/2363|null
+#EXTINF:0 tvg-id="2389.id.com" tvg-name="World's personalities HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDKREIBCNABA====/2389-world-s-personalities-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2389|{catchup-id}",World's personalities HD
+plugin://plugin.video.sweettv/playvid/2389|null
+#EXTINF:0 tvg-id="2361.id.com" tvg-name="Myths & Monsters HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC4REIBCNABA====/2361-myths-monsters-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2361|{catchup-id}",Myths & Monsters HD
+plugin://plugin.video.sweettv/playvid/2361|null
+#EXTINF:0 tvg-id="2617.id.com" tvg-name="Pure Nature HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC4RIIBCNABA====/2617-pure-nature-hd.png" group-title="Ismeretterjesztő;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2617|{catchup-id}",Pure Nature HD
+plugin://plugin.video.sweettv/playvid/2617|nullnull
+#EXTINF:0 tvg-id="2310.id.com" tvg-name="London Live Music HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCDBEIBCNABA====/2310-london-live-music-hd.png" group-title="Zene;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2310|{catchup-id}",London Live Music HD
+plugin://plugin.video.sweettv/playvid/2310|null
+#EXTINF:0 tvg-id="2314.id.com" tvg-name="LivePop Concerts HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCFBEIBCNABA====/2314-livepop-concerts-hd.png" group-title="Zene;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2314|{catchup-id}",LivePop Concerts HD
+plugin://plugin.video.sweettv/playvid/2314|null
