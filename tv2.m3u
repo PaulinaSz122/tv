@@ -249,8 +249,6 @@ plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1455427&cpid=0&type=tv
 plugin://plugin.video.tvpgo/play_channel?code=INF&ch_id=5d1dccc1fa06f9682b0f9924
 #EXTINF:0 tvg-id="TVP NAUKA" tvg-logo="https://s5.tvp.pl/images2/e/3/a/uid_e3a95bba0e16e0eed0e5fd59229cfbd01663860050881_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP NAUKA
 plugin://plugin.video.tvpgo/play_channel?code=NK&ch_id=632c3ddc45f77c91710cc0ae
-#EXTINF:0 tvg-id="TVP Sport" tvg-logo="https://s9.tvp.pl/images2/9/6/b/uid_96b6b3e217181c3d3925ba783fe68a131638275633849_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Sport
-plugin://plugin.video.tvpgo/play_channel?code=KSP&ch_id=5d1dccc1fa06f9682b0f993a
 #EXTINF:0 tvg-id="TVP Kultura" tvg-logo="https://s9.tvp.pl/images2/9/6/1/uid_96117b8fceb8a7db897a9757240316451638275727542_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Kultura
 plugin://plugin.video.tvpgo/play_channel?code=T5D&ch_id=5d1dccc1fa06f9682b0f9936
 #EXTINF:0 tvg-id="TVP Historia" tvg-logo="https://s4.tvp.pl/images2/d/5/e/uid_d5e250a46a37955df5b33847a1f661921638275686065_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Historia
@@ -289,6 +287,12 @@ plugin://plugin.video.orangetvgo/playtv/14298
 plugin://plugin.video.orangetvgo/playtv/14299
 #EXTINF:0 tvg-id="Eleven Sports 3 HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC8zMUMzRjAzMjhCRjUyNDc3M0M3MEJCRDY4NUU0M0VDOTg3N0QwRTQwLnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Eleven Sports 3 HD
 plugin://plugin.video.orangetvgo/playtv/14306
+#EXTINF:0 tvg-id="Eurosport 1 HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC81MkY5MDdDODFGMUMxQUNGNkEzODFBRTQ5MzU1MDc4MTlGODQ4RUQ3LnBuZw==" group-title="Orange TV GO",Eurosport 1 HD
+plugin://plugin.video.orangetvgo/playtv/14162
+#EXTINF:0 tvg-id="Eurosport 2 HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC9FMjYxNDlCQjc4NTEzOEQ5RTBCNEREMUZBMzVFQUQzQjMwQjVGMERELnBuZw==" group-title="Orange TV GO",Eurosport 2 HD
+plugin://plugin.video.orangetvgo/playtv/14163
+#EXTINF:0 tvg-id="TVP Sport HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL3R2cFNwb3J0XzE1OXgxMTAucG5n" group-title="Orange TV GO",TVP Sport HD
+plugin://plugin.video.orangetvgo/playtv/14108
 #EXTINF:0 tvg-id="Gametoon HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L2F0dGFjaG1lbnRzL2dhbWVUb29uXzE1OXgxMTAucG5n" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,Gametoon HD
 plugin://plugin.video.orangetvgo/playtv/14328
 #EXTINF:0 tvg-id="POLO TV" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/7g/7gub8nrbnchfppbxrxa95z41ht4khwmj.jpeg" group-title="PolsatBox Go" ,POLO TV
