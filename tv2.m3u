@@ -17,6 +17,8 @@ plugin://plugin.video.orangetvgo/playtv/14290
 plugin://plugin.video.playermb/?mode=playm3u&channelid=1908474
 #EXTINF:0 tvg-id="TVP Seriale HD" tvg-logo="https://tvgo.orange.pl/gpapi/resource/image/L1ZPRC85QzRCMUNCMkVFRUU5NDMyNzE4NkQ5N0ZFRTY1RjYyMTUwQTNGRjMzLnBuZw==" group-title="Orange TV GO" catchup="append" catchup-source="?ts={utc:Y-m-d H:M:S}&te={utcend:Y-m-d H:M:S}" catchup-days="7" ,TVP Seriale HD
 plugin://plugin.video.orangetvgo/playtv/14130
+#EXTINF:0 tvg-id="TVP HD" tvg-logo="http://s.tvp.pl/images/images/4/d/d/uid_4dd65f81dbb546228ec23986d5434903_width_510_play_0_pos_0_gs_0_height_0.png" group-title="TVP_VOD",TVP HD
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=KHSH&chID=aid_72827367
 #EXTINF:-1 tvg-logo="https://r-scale-7a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930752/images/49768977?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Player",Metro
 plugin://plugin.video.playermb/?mode=playm3u&channelid=2930752
 #EXTINF:-1 tvg-logo="https://r-scale-79.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908475/images/49770120?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Player",TTV HD
