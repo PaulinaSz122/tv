@@ -375,6 +375,42 @@ plugin://plugin.video.playermb/?mode=playm3u&channelid=8759883
 plugin://plugin.video.playermb/?mode=playm3u&channelid=8759885
 #EXTINF:-1 tvg-logo="https://r-scale-98.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759879/images/55090885?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" group-title="Player",TVN Prawo i Życie Online
 plugin://plugin.video.playermb/?mode=playm3u&channelid=8759879
+#EXTINF:0 tvg-id="Świat według Kiepskich" tvg-logo="https://ipla.pluscdn.pl/img/p/H8WaID7EKpjl/1920x1080/p/cms_thumbnails/43/43kzgnp2ixk7h6ibho8fw5sg2xmu4rjr.png" group-title="PolsatBox Go" ,Świat według Kiepskich
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1561396&cpid=0&type=tv
+#EXTINF:0 tvg-id="Sprawiedliwi - Wydział Kryminalny" tvg-logo="https://ipla.pluscdn.pl/img/p/VowrMWezMqsW/1920x1080/p/cms_thumbnails/m8/m8cq4r9yvx8b5pd7t2nft7vdxvnuef53.png" group-title="PolsatBox Go" ,Sprawiedliwi - Wydział Kryminalny
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1561386&cpid=0&type=tv
+#EXTINF:0 tvg-id="Policjantki i Policjanci" tvg-logo="https://ipla.pluscdn.pl/img/p/Q_iYoOUqXorO/1920x1080/p/cms_thumbnails/ua/uamgtkxb7az2jwkoyyvn3bnh2kk5hoje.png" group-title="PolsatBox Go" ,Policjantki i Policjanci
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1560849&cpid=0&type=tv
+#EXTINF:0 tvg-id="Gliniarze" tvg-logo="https://ipla.pluscdn.pl/img/p/ebwdu0wELyAo/1920x1080/p/cms_thumbnails/17/17si9m3h5iamtrfyi5v3qigy45v7y1zr.png" group-title="PolsatBox Go" ,Gliniarze
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1560544&cpid=0&type=tv
+#EXTINF:0 tvg-id="Włatcy móch" tvg-logo="https://ipla.pluscdn.pl/img/p/fui_-_LTbpkD/1920x1080/p/cms_thumbnails/sd/sdua1ke3e2uytdggsk13org8ppd99995.png" group-title="PolsatBox Go" ,Włatcy móch
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1566742&cpid=0&type=tv
+#EXTINF:0 tvg-id="Chłopaki do wzięcia" tvg-logo="https://ipla.pluscdn.pl/img/p/4RYaU1-fdzxa/1920x1080/p/cms_thumbnails/tj/tj5bmebq6a7vr27xq6o73w3gpn1sgzaw.png" group-title="PolsatBox Go" ,Chłopaki do wzięcia
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1566556&cpid=0&type=tv
+#EXTINF:0 tvg-id="Nasz nowy dom" tvg-logo="https://ipla.pluscdn.pl/img/p/nVnGxz_MmM3s/1920x1080/p/cms_thumbnails/s3/s3qdj2d18cztw3pkhwcofvkzpgwxx5hu.png" group-title="PolsatBox Go" ,Nasz nowy dom
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1566588&cpid=0&type=tv
+#EXTINF:0 tvg-id="Ewa gotuje" tvg-logo="https://ipla.pluscdn.pl/img/p/pVk7xp1QQcpP/1920x1080/p/cms_thumbnails/ot/ot9zzd375j3xcq4818urz6g4qyfqphxs.png" group-title="PolsatBox Go" ,Ewa gotuje
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1566406&cpid=0&type=tv
+#EXTINF:0 tvg-id="Daleko od noszy" tvg-logo="https://ipla.pluscdn.pl/img/p/ldqI6kg7eYvS/1920x1080/p/cms_thumbnails/92/92uwx3j7jrec5sfaaahxmc1znkfzcr7c.png" group-title="PolsatBox Go" ,Daleko od noszy
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1565708&cpid=0&type=tv
+#EXTINF:0 tvg-id="Trudne sprawy" tvg-logo="https://ipla.pluscdn.pl/img/p/JFW_q24je9BV/1920x1080/p/cms_thumbnails/rf/rfus8qsujgzyusdn4ax1ary51ms5uog4.png" group-title="PolsatBox Go" ,Trudne sprawy
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1565807&cpid=0&type=tv
+#EXTINF:0 tvg-id="Dlaczego ja?" tvg-logo="https://ipla.pluscdn.pl/img/p/BQ4KjYi9zGX-/1920x1080/p/cms_thumbnails/x2/x2z35mdh5w3etm613afagnzxdv7abesz.png" group-title="PolsatBox Go" ,Dlaczego ja?
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1565809&cpid=0&type=tv
+#EXTINF:0 tvg-id="Pamiętniki z wakacji" tvg-logo="https://ipla.pluscdn.pl/img/p/mAuj85pGy6Zt/1920x1080/p/cms_thumbnails/98/985wj1n44ucoyvsjcoh6sj9in5ev7nmr.png" group-title="PolsatBox Go" ,Pamiętniki z wakacji
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1565709&cpid=0&type=tv
+#EXTINF:0 tvg-id="Komedie" tvg-logo="https://ipla.pluscdn.pl/img/p/y6Bbeg-bAkRP/1920x1080/p/cms_thumbnails/hg/hg45vq65gw8523rej7affbmd5ej3yuj3.png" group-title="PolsatBox Go" ,Komedie
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1559196&cpid=0&type=tv
+#EXTINF:0 tvg-id="Kabarety" tvg-logo="https://ipla.pluscdn.pl/img/p/XabZDFxhOU1A/1920x1080/p/cms_thumbnails/my/mydj553t8215buzxvk9gicvx43kzyfod.png" group-title="PolsatBox Go" ,Kabarety
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1560537&cpid=0&type=tv
+#EXTINF:0 tvg-id="Zbrodnie" tvg-logo="https://ipla.pluscdn.pl/img/p/2dlyPZEXCX7i/1920x1080/p/cms_thumbnails/uk/ukcaro9if5y13bskt4cjvbohfx1sn47z.png" group-title="PolsatBox Go" ,Zbrodnie
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1560388&cpid=0&type=tv
+#EXTINF:0 tvg-id="Wielka Rozrywka" tvg-logo="https://ipla.pluscdn.pl/img/p/3Zd3wgs37-sf/1920x1080/p/cms_thumbnails/v9/v9mjp6416gokzzr2kvf73g56dcox79ka.png" group-title="PolsatBox Go" ,Wielka Rozrywka
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1559892&cpid=0&type=tv
+#EXTINF:0 tvg-id="Wielkie festiwale" tvg-logo="https://ipla.pluscdn.pl/img/p/HpQaZbTFglfi/1920x1080/p/cms_thumbnails/3d/3dh6p3ztdagi6metqsyvm8tout632r16.png" group-title="PolsatBox Go" ,Wielkie festiwale
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1565980&cpid=0&type=tv
+#EXTINF:0 tvg-id="Życiowe historie" tvg-logo="https://ipla.pluscdn.pl/img/p/EAM91CutbvZ6/1920x1080/p/cms_thumbnails/wi/wixzt8iao9y2ns1dvuh33qn2hk4g41ot.png" group-title="PolsatBox Go" ,Życiowe historie
+plugin://plugin.video.polsatbox_go?mode=playTV&mediaid=1558790&cpid=0&type=tv
 #EXTINF:0 tvg-id="Car City Adventures" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f.jpeg" group-title="Rakuten TV",Car City Adventures
 plugin://plugin.video.rakuten_tv?mode=playSource&cid=car-city-adventures-pl&lang=POL
 #EXTINF:0 tvg-id="Fail Army" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e481c9fa-07c8-4345-8638-47527a0b807b.jpeg" group-title="Rakuten TV",Fail Army
