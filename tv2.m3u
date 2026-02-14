@@ -467,3 +467,5 @@ plugin://plugin.video.sweettv/playvid/2617|nullnull
 plugin://plugin.video.sweettv/playvid/2310|null
 #EXTINF:0 tvg-id="2314.id.com" tvg-name="LivePop Concerts HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCFBEIBCNABA====/2314-livepop-concerts-hd.png" group-title="Zene;Ingyenes TV;HD csatornák" catchup="default" catchup-days="7" catchup-source="plugin://plugin.video.sweettv/playvid/2314|{catchup-id}",LivePop Concerts HD
 plugin://plugin.video.sweettv/playvid/2314|null
+#EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="FtXz7UPCt0CcOOevamZxxg" CUID="FtXz7UPCt0CcOOevamZxxg" tvg-chno="2" tvg-name="Akademia Policyjna" tvg-logo="http://192.168.1.40:8409/iptv/logos/gen?text=Akademia+Policyjna" group-title="ErsatzTV" tvc-stream-vcodec="copy" tvc-stream-acodec="copy", Akademia Policyjna
+http://192.168.1.40:8409/iptv/channel/2.ts
